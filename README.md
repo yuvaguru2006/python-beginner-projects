@@ -1790,3 +1790,4 @@ New projects and improvements are very welcome — this is a friendly place for 
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+Contributions from beginners are welcome!
